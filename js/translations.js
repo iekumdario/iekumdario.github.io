@@ -29,7 +29,7 @@ var dict = {
   },
   "contact": {
     es: "Contacto",
-    en: "Contact Me"
+    en: "Contact"
   },
   "aboutme-dtl": {
     es: "Soy un ingeniero y desarrollador de software interesado principalmente en desarrollar proyectos que involucran plataformas web y móviles. Tengo experiencia en desarrollo de software y sistemas, investigación científica y diseño de algoritmos para solucionar problemas. Conocimientos en múltiples lenguajes de programación, marcado y scripting. Mis habilidades van desde aplicaciones de escritorio y web hasta bases de datos y servidores Linux.",
