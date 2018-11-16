@@ -1,7 +1,7 @@
 var dict = {
   "lang":{
-    en:"en", //dumb I know
-    es:"es"
+    en:"es",
+    es:"en"
   },
   "name": {
     es: "José Quintero",
