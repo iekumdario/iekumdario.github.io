@@ -24,40 +24,40 @@ var dict = {
     en: "Skills"
   },
   "contact-dtl": {
-    es: "Me puedes escribir a (jdquintero arroba gmail punto com)",
-    en: "You can reach me at (jdquintero at gmail dot com)"
+    es: "Me puedes escribir a (jdquinterov arroba gmail punto com)",
+    en: "You can reach me at (jdquinterov at gmail dot com)"
   },
   "contact": {
     es: "Contacto",
     en: "Contact"
   },
   "aboutme-dtl": {
-    es: "Soy un ingeniero y desarrollador de software interesado principalmente en desarrollar proyectos que involucran plataformas web y móviles. Tengo experiencia en desarrollo de software y sistemas, investigación científica y diseño de algoritmos para solucionar problemas. Conocimientos en múltiples lenguajes de programación, marcado y scripting. Mis habilidades van desde aplicaciones de escritorio y web hasta bases de datos y servidores Linux.",
-    en: "I'm a software developer and engineer primarily interested in developing projects involving Web and Mobile platforms. Fluent in multiple programming, markup and scripting languages. With experience in software and systems development, scientific research, and algorithm design aimed at solving problems. My skills range from desktop to web apps, all the way to databases and linux servers."
+    es: "Soy un ingeniero de software interesado principalmente en desarrollar proyectos que involucran plataformas web y móviles. Tengo experiencia en desarrollo de software y sistemas, investigación científica y diseño de algoritmos para solucionar problemas. Conocimientos en múltiples lenguajes de programación, marcado y scripting.",
+    en: "I'm a software engineer primarily interested in developing projects involving Web and Mobile platforms. Fluent in multiple programming, markup and scripting languages. With experience in software and systems development, scientific research, and algorithm design aimed at solving problems."
   },
   "programming": {
     es: "Programación",
     en: "Code"
   },
   "programming-dtl": {
-    es: "HTML, Java, Python y tecnologías relacionadas.",
-    en: "HTML, Java, Python and related technologies."
+    es: "HTML, Java, C# y tecnologías relacionadas.",
+    en: "HTML, Java, C# and related technologies."
   },
   "servers": {
     es: "Servidores",
     en: "Servers"
   },
   "servers-dtl": {
-    es: "Linux y servidor web apache.",
-    en: "Linux and apache web servers."
+    es: "Nginx, IIS, Apache.",
+    en: "Nginx, IIS, Apache."
   },
   "db": {
     es: "Bases de datos",
     en: "Databases"
   },
   "db-dtl": {
-    es: "Bases de datos relacionales, SQL, formularios, informes, etc.",
-    en: "Relational Databases, SQL, forms, reports, etc."
+    es: "Bases de datos relacionales, SQL, Search engines, etc.",
+    en: "Relational Databases, SQL, Search engines, etc."
   },
   "dedication": {
     es: "Dedicación",
